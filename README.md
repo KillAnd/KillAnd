@@ -1,7 +1,5 @@
 # Hi there, my name is Ilya 👋
 
-## I'm a begin developer, i know Java language and studying Pyton!
+### I'm a begin developer, i know Java language and studying Pyton!
 
-## This is my first Python repository for learning neural networks.
-
-# Let's go!
+### Welcome to my page and look my reposytories
