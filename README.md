@@ -4,4 +4,4 @@
 
 # This is my first Python repository for learning neural networks.
 
-№№№ Let's go!
+### Let's go!
